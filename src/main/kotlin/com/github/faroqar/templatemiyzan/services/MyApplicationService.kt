@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.faroqar.templatemiyzan.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.faroqar.templatemiyzan.MyBundle
 
 class MyApplicationService {
 
